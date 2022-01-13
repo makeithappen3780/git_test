@@ -1,1 +1,2 @@
 hello i am on zoom with dino 
+practicing some more with git
